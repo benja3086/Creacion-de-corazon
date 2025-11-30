@@ -88,7 +88,7 @@ async function handleFormarCorazon() {
     await animateHeartTerminal();
     
     // Show final message
-    loverNameSpan.textContent = ', Mumi! ♥';
+    loverNameSpan.textContent = ', Sofia! ♥';
     finalMessage.classList.remove('hidden');
     
     isAnimating = false;
